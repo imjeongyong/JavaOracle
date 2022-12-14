@@ -1,3 +1,4 @@
+package oracleInsert;
 import java.sql.*;
 
 public class OracleInsert {
